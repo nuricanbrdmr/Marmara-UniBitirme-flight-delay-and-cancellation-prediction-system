@@ -50,8 +50,8 @@ cd bitirme-backend
 npm install
 ```
 
-#### Environment Variables
-Create a `.env` file in the `bitirme-backend` directory with the following variables:
+#### Ortam Değişkenleri
+Aşağıdaki değişkenleri içeren `bitirme-backend` dizininde bir `.env` dosyası oluşturun:
 ```env
 # Database
 MONGODB_URI=your_mongodb_connection_string
@@ -66,7 +66,7 @@ NODE_USER=your_email_address
 NODE_PASS=your_email_password
 ```
 
-Then start the server:
+Ardından sunucuyu başlatın:
 ```bash
 node server.js
 ```

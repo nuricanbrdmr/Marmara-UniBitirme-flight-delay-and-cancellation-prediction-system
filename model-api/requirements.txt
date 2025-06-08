@@ -1,0 +1,10 @@
+flask
+flask-cors
+pyngrok
+meteostat
+geopy
+numpy
+pandas
+scikit-learn
+joblib
+imblearn
